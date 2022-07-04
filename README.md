@@ -5,13 +5,11 @@
 random silly sentences that are grammatically correct 
 
 ## Pre-requisites
---------------
 
 - Any computer that has any version of python installed
 - Preferably use python 3 and above
 
 ## Usage
----------------
 
 Run silly.py instead  
 words.py is imported in silly.py, you don't have to run words.py
